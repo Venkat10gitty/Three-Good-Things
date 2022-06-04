@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LinearLayoutCustom"
+    tools:context="com.example.irenemitsopoulou.threegoodthings.MainActivity">
+
+    <ListView
+        android:id="@+id/listView"
+        style="@style/Custom"
+        android:layout_weight="1"
+        android:divider="@android:color/white"
+        android:dividerHeight="10dp"></ListView>
+
+    <Button
+        style="@style/Custom"
+        android:onClick="add"
+        android:text="@string/add_entry" />
+</LinearLayout>

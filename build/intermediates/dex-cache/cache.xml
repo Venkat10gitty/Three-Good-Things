@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_10e0dba198a927402cea7778e49d47863851d7cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="415cea6ff74055bda6fba3433f566aa4057627cc">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ff0f318b48dfc358b3819eea4f073657cad6e44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e4fff6471b9f2301801a58dc9a52bc0f9194da14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_986ccfdd2c160f7360cbba451c35c3093231f222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_cdbec7d08360d4e567f4ed535adc4e7965c09f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6626e7745d7830f53afbf579edca207ee8785a33">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ced1dd759f7fc32e5157efc6b20d662e2923a782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_611d81ef0adc183fefc9e2b11899cd08fa7b5bbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/eirinimitsopoulou/Desktop/Πληροφορική/CSD AUTH/6ο Εξάμηνο/Κινητά Δίκτυα και Ανάπτυξη Εφαρμογών/ANDROID/Project/AndroidProject3/ThreeGoodThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_a2257861333257568167536cb75f191f4db4f9cf/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LinearLayoutCustom"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    tools:context="com.example.irenemitsopoulou.threegoodthings.ChangeNote">
+
+    <EditText
+        android:id="@+id/title"
+        style="@style/Custom"
+        android:focusableInTouchMode="false"
+        android:inputType="text"
+        android:onClick="date"
+        android:textColor="#FF4081"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/title1"
+        style="@style/CustomEditText" />
+
+    <EditText
+        android:id="@+id/note1"
+        style="@style/CustomEditText" />
+
+    <EditText
+        android:id="@+id/title2"
+        style="@style/CustomEditText" />
+
+    <EditText
+        android:id="@+id/note2"
+        style="@style/CustomEditText" />
+
+    <EditText
+        android:id="@+id/title3"
+        style="@style/CustomEditText" />
+
+    <EditText
+        android:id="@+id/note3"
+        style="@style/CustomEditText" />
+
+    <LinearLayout
+        style="@style/Custom"
+        android:orientation="horizontal">
+
+        <Button
+            style="@style/Custom2"
+            android:onClick="update"
+            android:text="@string/update" />
+
+        <Button
+            style="@style/Custom2"
+            android:onClick="delete"
+            android:text="@string/delete" />
+    </LinearLayout>
+
+
+</LinearLayout>

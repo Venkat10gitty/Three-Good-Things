@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Three-Good-Thingssss.iml" filepath="$PROJECT_DIR$/.idea/modules/Three-Good-Thingssss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Three-Good-Thingssss.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Τρείς Όμορφες Στιγμές</string>
+    <string name="save" translatable="false">Αποθηκευση</string>
+    <string name="update" translatable="false">Τροποποιηση</string>
+    <string name="delete" translatable="false">Διαγραφη</string>
+    <string name="add_entry" translatable="false">Nεα Καταχωρηση</string>
+    <string name="Third_Good_Thing" translatable="false">3η Όμορφη Στιγμή</string>
+    <string name="Second_Good_Thing" translatable="false">2η Όμορφη Στιγμή</string>
+    <string name="First_Good_Thing" translatable="false">1η Όμορφη Στιγμή</string>
+    <string name="Date" translatable="false">Ημερομηνία</string>
+</resources>

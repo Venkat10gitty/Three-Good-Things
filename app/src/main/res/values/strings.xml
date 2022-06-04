@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Three Good Things</string>
+    <string name="save" translatable="false">save</string>
+    <string name="update" translatable="false">update</string>
+    <string name="delete" translatable="false">delete</string>
+    <string name="add_entry" translatable="false">add entry</string>
+    <string name="Date" translatable="false">Date</string>
+    <string name="First_Good_Thing" translatable="false">1st Good Thing</string>
+    <string name="Second_Good_Thing" translatable="false">2nd Good Thing</string>
+    <string name="Third_Good_Thing" translatable="false">3rd Good Thing</string>
+    <string name="Feeling" translatable="false">I felt</string>
+</resources>

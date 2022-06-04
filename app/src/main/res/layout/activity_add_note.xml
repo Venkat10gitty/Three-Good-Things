@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LinearLayoutCustom"
+    tools:context="com.example.irenemitsopoulou.threegoodthings.AddNote">
+
+    <EditText
+        android:id="@+id/title"
+        style="@style/Custom"
+        android:focusableInTouchMode="false"
+        android:hint="@string/Date"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:onClick="date" />
+
+    <EditText
+        android:id="@+id/title1"
+        style="@style/CustomEditText"
+        android:layout_height="98dp"
+        android:hint="@string/First_Good_Thing"
+        android:textColorHint="#546E7A" />
+
+    <EditText
+        android:id="@+id/note1"
+        style="@style/CustomEditText"
+        android:layout_height="138dp"
+        android:hint="@string/Feeling" />
+
+    <EditText
+        android:id="@+id/title2"
+        style="@style/CustomEditText"
+        android:layout_height="102dp"
+        android:hint="@string/Second_Good_Thing"
+        android:textColorHint="#546E7A" />
+
+    <EditText
+        android:id="@+id/note2"
+        style="@style/CustomEditText"
+        android:layout_height="146dp"
+        android:hint="@string/Feeling" />
+
+    <EditText
+        android:id="@+id/title3"
+        style="@style/CustomEditText"
+        android:layout_height="111dp"
+        android:hint="@string/Third_Good_Thing"
+        android:textColorHint="#546E7A" />
+
+    <EditText
+        android:id="@+id/note3"
+        style="@style/CustomEditText"
+        android:layout_height="139dp"
+        android:hint="@string/Feeling" />
+
+    <Button
+        style="@style/Custom"
+        android:onClick="save"
+        android:text="@string/save" />
+
+
+</LinearLayout>
